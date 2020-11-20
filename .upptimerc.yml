@@ -12,8 +12,6 @@ sites:
     url: https://news.ycombinator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
-  - name: Indy
-    url: http://indy.psi.redhat.com
   - name: Secret Site
     url: $SECRET_SITE
 
