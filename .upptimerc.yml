@@ -4,6 +4,14 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
+   - name: Google
+    url: https://www.google.com
+  - name: Wikipedia
+    url: https://en.wikipedia.org
+  - name: Hacker News
+    url: https://news.ycombinator.com
+  - name: Broken Site
+    url: https://thissitedoesnotexist.com
   - name: Indy
     url: http://indy.psi.redhat.com
   - name: Secret Site
