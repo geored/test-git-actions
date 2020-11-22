@@ -14,8 +14,8 @@ sites:
     url: https://thissitedoesnotexist.com
   - name: Secret Site
     url: $SECRET_SITE
-  - name:  Indy
-    url: https://indy.psi.redhat.com
+  - name:  Test
+    url: http://off.net.mk
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
