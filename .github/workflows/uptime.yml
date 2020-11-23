@@ -26,3 +26,4 @@ jobs:
           command: "update"
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
+          INDY_TOKEN: ${{ secrets.INDY_TOKEN }}
