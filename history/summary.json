@@ -36,12 +36,12 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "100.00%",
+    "uptime": "99.40%",
     "time": 0
   },
   {
     "name": "Test",
-    "url": "http://off.net.mk",
+    "url": "https://time.mk",
     "slug": "test",
     "status": "up",
     "uptime": "100.00%",
