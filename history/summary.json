@@ -4,7 +4,7 @@
     "url": "http://indy.psi.redhat.com",
     "slug": "indy-static-prod",
     "status": "down",
-    "uptime": "3.00%",
+    "uptime": "0.37%",
     "time": 0
   },
   {
@@ -12,7 +12,7 @@
     "url": "http://indy-admin.psi.redhat.com",
     "slug": "indy-prod",
     "status": "down",
-    "uptime": "7.83%",
+    "uptime": "0.72%",
     "time": 0
   }
 ]
