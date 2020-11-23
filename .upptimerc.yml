@@ -11,7 +11,7 @@ sites:
   - name: Indy Prod
     url: http://indy-admin.psi.redhat.com
     headers:
-      - "Authorization: Bearer  $INDY_TOKEN"
+      - "Authorization: Bearer $INDY_TOKEN"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
