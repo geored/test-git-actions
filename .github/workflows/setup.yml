@@ -52,3 +52,4 @@ jobs:
         env:
           BUILD_DIR: "site/status-page/__sapper__/export/"
           GH_PAT: ${{ secrets.GH_PAT }}
+          INDY_TOKEN: ${{ secrets.INDY_TOKEN }}
