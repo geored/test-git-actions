@@ -5,7 +5,15 @@
     "slug": "indy-static-prod",
     "status": "down",
     "uptime": "0.00%",
-    "time": 0
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   },
   {
     "name": "Indy Prod",
@@ -13,6 +21,14 @@
     "slug": "indy-prod",
     "status": "down",
     "uptime": "0.00%",
-    "time": 0
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   }
 ]
